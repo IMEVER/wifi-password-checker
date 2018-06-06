@@ -1,0 +1,10 @@
+package: wifi-password-checker
+version: 0.0.1
+architecture: amd64
+Maintainer: IMEVER <Hobart_Tian@imever.me>
+description: Checker password for the used wifi sigs in current pc
+Section: Network
+Priority: optional
+Installed-Size:47
+depends: 
+
